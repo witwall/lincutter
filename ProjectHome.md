@@ -1,0 +1,1 @@
+Lincutter is a vector graphics tool for vinyl cutting plotters. The application is similar to Roland CutStudio, Postcut etc.
